@@ -182,3 +182,7 @@ class App {
 }
 
 App.init();
+
+let c = 2
+let d = 4
+console.log(c+d)
